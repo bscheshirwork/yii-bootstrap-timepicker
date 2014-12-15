@@ -1,0 +1,22 @@
+{
+    "name": "bscheshir/yii-bootstrap-timepicker",
+    "description": "Yii extension wrapper for bootstrap-timepicker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BSCheshir",
+            "email": "bscheshir@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "http://github.com/bscheshirwork/yii-bootstrap-timepicker"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "jdewit/bootstrap-timepicker": "0.2.*"
+    }
+}
+
